@@ -1,2 +1,2 @@
 #comment
-print("hi")
+print("h")
